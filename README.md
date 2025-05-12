@@ -1,3 +1,19 @@
+<table align="center">
+  <td>
+    <a href="https://colab.research.google.com/github/nghiencuuthuoc/PharmApp/notebook/PharmApp.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+  <td>
+    <a target="_blank" href="https://kaggle.com/kernels/welcome?src=https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/PharmApp.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
+  </td>
+</table>
+![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/refs/heads/master/images/PharmApp_logo_long.png)
+# PharmApp - Drug Discovery and Development
+Copyright 2025 | Nghiên Cứu Thuốc | RD_Pharma_Plus
+
+Email: nghiencuuthuoc@gmail.com | Web: nghiencuuthuoc.com | FB: facebook.com/nghiencuuthuoc | YouTube: youtube.com/@nghiencuuthuoc 
+
+LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsApp: +84888999311 | Twitter: x.com/nghiencuuthuoc
+
 # Medical Dictionary App
 
 ## Introduction
@@ -84,4 +100,4 @@ Chào mừng bạn đến với Ứng dụng Từ điển Y tế! Ứng dụng n
 Dự án này được cấp phép theo Giấy phép MIT - xem tệp [LICENSE](LICENSE) để biết chi tiết.
 
 ## Liên hệ
-Đối với bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ với [your.email@example.com].
+Đối với bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ với [nghiencuuthuoc@gmail.com].
