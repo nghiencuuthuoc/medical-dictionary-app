@@ -1,0 +1,3 @@
+streamlit run medical_dictionary_app.py
+
+medical_dictionary_app.bat
