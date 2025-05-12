@@ -6,7 +6,9 @@
     <a target="_blank" href="https://kaggle.com/kernels/welcome?src=https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/PharmApp.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
   </td>
 </table>
+
 ![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/refs/heads/master/images/PharmApp_logo_long.png)
+
 # PharmApp - Drug Discovery and Development
 Copyright 2025 | Nghiên Cứu Thuốc | RD_Pharma_Plus
 
