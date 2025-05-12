@@ -8,7 +8,11 @@ import os
 import tempfile
 
 
-st.set_page_config(page_title="Medical Dictionary", layout="wide")
+st.set_page_config(page_title="Medical Dictionary",     
+                   page_icon="https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/refs/heads/master/images/nct_logo.png",
+    layout="wide",
+    initial_sidebar_state="auto",
+)
 
 # Load data
 @st.cache_data
