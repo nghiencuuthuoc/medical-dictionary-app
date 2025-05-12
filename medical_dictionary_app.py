@@ -23,6 +23,11 @@ df = load_data()
 english_terms = df['original'].dropna().unique().tolist()
 english_terms.sort()
 
+st.write("""
+# PharmApp Suite
+## 🧠 AI for Drug Discovery and Development 🧪
+Copyright 2025 | Nghiên Cứu Thuốc | RnD_Pharma_Plus | www.nghiencuuthuoc.com
+""")
 
 st.title("📘 Medical Vocabulary Dictionary")
 
